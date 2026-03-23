@@ -1,0 +1,1 @@
+frame_idx,timestamp_ms,has_pose,inference_ms,mean_visibility,mean_presence,occluded_frac,wrist_speed_m_s

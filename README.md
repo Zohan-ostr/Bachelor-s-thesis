@@ -1,1 +1,5 @@
 # Bachelor-s-thesis
+
+py -3.11 -m venv .venv
+.\.venv\Scripts\Activate.ps1
+
